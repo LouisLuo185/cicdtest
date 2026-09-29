@@ -43,6 +43,4 @@ pytest -q
 
 - `deploy.sh` only prints environment information and commit SHA to simulate deployment.
 
-- change test.
-
   
